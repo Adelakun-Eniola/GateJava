@@ -1,0 +1,2 @@
+"# PhaseGate1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/boylax23/PhaseGate1.gitgit push -u origin main
+"# PhaseGateJava"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/boylax23/PhaseGateJava.gitgit push -u origin main
