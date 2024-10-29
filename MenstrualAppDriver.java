@@ -8,6 +8,7 @@ public class MenstrualAppDriver{
 		
 		System.out.println("Enter Your Name:");		
 		String name = scanner.nextLine();
+		app.setName(name);
 		System.out.println("Welcome " + app.getName());
 
 
